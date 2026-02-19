@@ -6,20 +6,16 @@ This comprehensive dashboard project is built using the MERN (MongoDB, Express.j
 
 ## Table of Contents
 
-1. [Demo](#Demo)
-2. [Introduction](#introduction)
-3. [Features](#features)
-4. [Technologies Used](#technologies-used)
-5. [Packages Used](#packages-used)
-6. [Installation](#installation)
-7. [Folder Structure](#folder-structure)
-8. [Running the Application](#running-the-application)
-9. [Author](#author)
-10. [Documentation](#documentation)
+1. [Introduction](#introduction)
+2. [Features](#features)
+3. [Technologies Used](#technologies-used)
+4. [Packages Used](#packages-used)
+5. [Installation](#installation)
+6. [Folder Structure](#folder-structure)
+7. [Running the Application](#running-the-application)
+8. [Author](#author)
+9. [Documentation](#documentation)
 
-## Demo
-
-You can see a live demo of the portfolio website at https://react-dashboard12.vercel.app.
 
 ## Introduction
 
@@ -134,7 +130,7 @@ Ensure to replace `YOUR_MONGODB_URL` with your actual MongoDB URL. The `PORT` va
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/Shivam-Sharma-1/Dashboard.git
+git clone https://github.com/karan1601-xlr8/MERN-Dashboard-Project.git
 ```
 
 2. Change to the project directory:
@@ -204,7 +200,7 @@ This structure separates the client and server codebases for better organization
 
 ## Author
 
-- [@Shivam-Sharma-1](https://github.com/Shivam-Sharma-1)
+Karan Raj (NIT Agartala)
 
 Certainly! Here's the documentation section with relevant links:
 
